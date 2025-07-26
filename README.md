@@ -1,1 +1,2 @@
-# News-Website
+# NEWS_WEBSITE
+NEWS_WEBSITE
